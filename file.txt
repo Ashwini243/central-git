@@ -1,2 +1,4 @@
 hello
 hi
+This line is from singapore
+bye bye
